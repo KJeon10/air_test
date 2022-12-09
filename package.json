@@ -1,0 +1,25 @@
+{
+  "name": "air_test",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KJeon10/air_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KJeon10/air_test/issues"
+  },
+  "homepage": "https://github.com/KJeon10/air_test#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.18.2"
+  }
+}
